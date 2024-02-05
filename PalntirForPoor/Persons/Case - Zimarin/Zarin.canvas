@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"831ea2c5b62e504f","x":-460,"y":-200,"width":400,"height":400,"type":"file","file":"Persons/Case - Zimarin/POI - Aleksey Alekseyevich Zimarin.md"},
+		{"id":"46d056c8ae48fde6","x":138,"y":-155,"width":400,"height":400,"type":"file","file":"Persons/Case - Zimarin/SocMedia - Ok.Ru Zarin.md"},
+		{"id":"0417c72a7997a3b8","x":298,"y":388,"width":400,"height":400,"type":"file","file":"Persons/Case - Zimarin/SocMedia - Vkontkte Zarin.md"}
+	],
+	"edges":[
+		{"id":"58027fa97600fc3d","fromNode":"831ea2c5b62e504f","fromSide":"right","toNode":"46d056c8ae48fde6","toSide":"left"},
+		{"id":"1d20a9dd141ee63c","fromNode":"831ea2c5b62e504f","fromSide":"right","toNode":"0417c72a7997a3b8","toSide":"left"}
+	]
+}

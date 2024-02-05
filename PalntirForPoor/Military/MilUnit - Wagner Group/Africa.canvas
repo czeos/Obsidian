@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1a9a187b495f7a4d","type":"file","file":"Military/MilUnit - Wagner Group/attachment/mali_political_map.gif","x":-2027,"y":-960,"width":3792,"height":2680},
+		{"id":"14a17b540d7a9850","type":"link","url":"https://apnews.com/article/mali-human-rights-abuses-wagner-military-fulani-19a045521448453dd9ecb5b464941955","x":-51,"y":180,"width":400,"height":400},
+		{"id":"bf61b02809e9dbf5","type":"file","file":"Military/MilUnit - Wagner Group/attachment/Pasted image 20240204213415.jpg","x":680,"y":240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"3632b3828bd8abdf","fromNode":"bf61b02809e9dbf5","fromSide":"right","toNode":"14a17b540d7a9850","toSide":"left"},
+		{"id":"fb02e6aa0c8ef0b0","fromNode":"bf61b02809e9dbf5","fromSide":"right","toNode":"14a17b540d7a9850","toSide":"left"},
+		{"id":"d591998e1f50e573","fromNode":"bf61b02809e9dbf5","fromSide":"left","toNode":"14a17b540d7a9850","toSide":"right"}
+	]
+}

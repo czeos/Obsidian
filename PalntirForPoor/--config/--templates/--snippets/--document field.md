@@ -1,0 +1,5 @@
+- document type: (doc-type::)
+- document ID: (doc-id::)
+- issued by: (doc-issuedby::)
+- valid from: (doc-valiidfrom::)
+- valid to: (doc-validto::)

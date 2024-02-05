@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "Zachatoo/obsidian-canvas-send-to-back",
+    "amatya-aditya/obsidian-image-slider"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "amatya-aditya/obsidian-image-slider",
+      "version": "2.15.0"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true
+}

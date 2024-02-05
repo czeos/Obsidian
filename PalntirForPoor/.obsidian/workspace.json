@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "fe542532c9b345c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "46d1e09c7f8928af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e52cf2cdbf0a4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Military/MilUnit - Wagner Group/MilUnit - PMC  Wagner Group.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee915f07d5e3e211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Military/MilUnit - Wagner Group/MilUnit - PMC  Wagner Group.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb7e13796dcf4a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "11ebc2fe91a0491e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baf3a717699b4327",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89af0c7240d77f37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#user/set-name",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27d600a6a63a7843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "right": {
+    "id": "a3cc47a6cff7648a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c6c3e998228d42f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0871baf0a1809fcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Military/MilUnit - Wagner Group/MilUnit - PMC  Wagner Group.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb0c1980772dc293",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Military/MilUnit - Wagner Group/MilUnit - PMC  Wagner Group.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1307cc0448ee9a92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4ff2458a6d6e5c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Military/MilUnit - Wagner Group/MilUnit - PMC  Wagner Group.md"
+              }
+            }
+          },
+          {
+            "id": "369a127809f3fac4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "fa0b9d87dd0e5f79",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "26dfcf584a0d645a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "26e4219e2e476697",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "acd514bacafa550c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-map-view:Open map view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "translate:Open translation view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "hunchly:Hunchly": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "juggl:Juggl global graph": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "ee915f07d5e3e211",
+  "lastOpenFiles": [
+    "Users/Mike.md",
+    "Lists/List of persons.md",
+    "News/News - Présidentielle au Salvador Nayib Bukele revendique sa victoire avec plus de 85% des voix.md",
+    "Military/MilUnit - Wagner Group/MilUnit - PMC  Wagner Group.md",
+    "Persons/Case - Zimarin/POI - Aleksey Alekseyevich Zimarin.md",
+    "Military/MilUnit - Wagner Group/Africa.canvas",
+    "Military/MilUnit - Wagner Group/attachment/Pasted image 20240204213415.jpg",
+    "Military/MilUnit - Wagner Group/attachment/mali_political_map.gif",
+    "Persons/Case - Zimarin/Zarin.canvas",
+    "Persons/Бузжигит Хызырович Мамаев/ГАЗИТАЕВА ЗАРЕМА ИБРАГИМОВНА.md",
+    "Persons/Бузжигит Хызырович Мамаев/Untitled.md",
+    "Persons/Бузжигит Хызырович Мамаев/Бузжигит Хызырович Мамаев.md",
+    "Persons/Василий Владимирович Силаев/Василий Владимирович Силаев.md",
+    "Persons/Василий Владимирович Силаев/Mama.md",
+    "Persons/Case - Zimarin/Document - Passport Zarin .md",
+    "Persons/Case - Lifintsov/POI - Aleksey Viktorovich Lifintsov.md",
+    "Persons/Case - Fotyanov/SocMedia - VK Fotyanov 1.md",
+    "--config/--templates/--block/--military unit blocks/--military deployment block.md",
+    "Persons/Case - Fotyanov/POI - Aleksey Grigorevich Fotyanov.md",
+    "Events/Event.md",
+    "Persons/Case - Lifintsov/SocMedia - VK Lifintsov.md",
+    "Persons/Case - Lifintsov",
+    "--config/--templates/--block/--case header block.md",
+    "Persons/Василий Владимирович Силаев/1. 413540, рф, Саратовськая обл. с. Горний, вул. Нова, буд. 26.md",
+    "--technical/--List of management tags.md",
+    "--technical/--List of commandID.md",
+    "Persons/Case - Zimarin/SocMedia - Ok.Ru Zarin.md",
+    "--config/--templates/--block/--person bio block.md",
+    "--config/--templates/--block/Untitled.md",
+    "Users",
+    "--config/--templates/--block/--document block.md",
+    "--config/--templates/--block/--phone block.md",
+    "Persons/Case - Fotyanov/attachment/Pasted image 20240204224503.jpg",
+    "Persons/Case - Fotyanov/attachment/Pasted image 20240204224453.jpg",
+    "Persons/Case - Fotyanov/attachment/Pasted image 20240204224413.jpg",
+    "Persons/Case - Fotyanov/attachment/Pasted image 20240204224408.jpg",
+    "Persons/Case - Fotyanov/attachment/Pasted image 20240204224401.jpg",
+    "Persons/Case - Fotyanov/attachment",
+    "Persons/Case - Fotyanov",
+    "Persons/Case - Zimarin/attachment/Pasted image 20240204223745.png",
+    "Military/MilUnit - w2",
+    "Military/MilUnit - w",
+    "Military/MilUnit - Wag",
+    "Persons/Case - Zimarin/attachment/zarin.png",
+    "Persons/Case - Zimarin/attachment/Pasted image 20240204213703.jpg",
+    "Persons/Case - Zimarin/attachment",
+    "Military/MilUnit - Wagner Group/attachment",
+    "Military/MilUnit - Wagner Group",
+    "Persons/Бузжигит Хызырович Мамаев/ГАЗИТАЕВА ЗАРЕМА ИБРАГИМОВНА.canvas",
+    "Persons/Бузжигит Хызырович Мамаев/Бузжигит Хызырович Мамаев.canvas"
+  ]
+}

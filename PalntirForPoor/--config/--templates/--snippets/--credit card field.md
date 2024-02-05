@@ -1,0 +1,6 @@
+- document type: (doc-type::)
+- credit card number: (doc-credit-num::)
+- holder name: (doc-credit-holder::)
+- issued by: (doc-issuedby::)
+- valid from: (doc-valiidfrom::)
+- valid to: (doc-validto::)

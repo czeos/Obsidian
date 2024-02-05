@@ -1,0 +1,70 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "quickadd:choice:314582c0-04dd-4e28-8d72-598002dc295b",
+      "name": "QuickAdd: Add POI Person Folder",
+      "icon": "remix-CriminalFill"
+    },
+    {
+      "id": "quickadd:choice:5c8ca555-1f35-4390-a665-d73cded7b9b4",
+      "name": "QuickAdd: Add Person Template",
+      "icon": "remix-CriminalLine"
+    },
+    {
+      "id": "quickadd:choice:7491df10-8d1f-4dae-b175-7d77e15ea25d",
+      "name": "QuickAdd: Add Address Template",
+      "icon": "remix-Building4Line"
+    },
+    {
+      "id": "quickadd:choice:31db9cc3-0b82-4bcc-8100-6081e3c254c5",
+      "name": "QuickAdd: Add Document Template",
+      "icon": "remix-BankCardLine"
+    },
+    {
+      "id": "quickadd:choice:d72936fa-0db8-4945-9888-6e1d4ffbf0a6",
+      "name": "QuickAdd: Add Email Template",
+      "icon": "feather-at-sign"
+    },
+    {
+      "id": "quickadd:choice:1c9e6462-712f-435a-a15b-808351c99ce4",
+      "name": "QuickAdd: Add Location Template",
+      "icon": "feather-map-pin"
+    },
+    {
+      "id": "quickadd:choice:0f23e1cf-cc0f-451a-a6bb-8e6f246e6e30",
+      "name": "QuickAdd: Add Phone Template",
+      "icon": "feather-phone"
+    },
+    {
+      "id": "quickadd:choice:46d17403-d67d-4b6e-ac86-65e56ba446fb",
+      "name": "QuickAdd: Add Username Template",
+      "icon": "remix-UserLine"
+    },
+    {
+      "id": "quickadd:choice:1f672659-436a-4922-aec5-f1aa015397ff",
+      "name": "QuickAdd: Add Work Template",
+      "icon": "remix-Building3Line"
+    },
+    {
+      "id": "quickadd:choice:255df84d-f0e0-46cb-a5ef-f1b01e6f2370",
+      "name": "QuickAdd: Add SocMedia Template",
+      "icon": "feather-hash"
+    },
+    {
+      "id": "quickadd:choice:8b9b0e90-5925-4089-be7f-8545d160fcd4",
+      "name": "QuickAdd: Add Education Template",
+      "icon": "remix-GlobeLine"
+    },
+    {
+      "id": "quickadd:choice:2df9f99b-91c6-4a63-a264-1b8f3ef7c22a",
+      "name": "QuickAdd: Add Military Unit",
+      "icon": "dice"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 9
+}

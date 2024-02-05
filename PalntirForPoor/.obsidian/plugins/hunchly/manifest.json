@@ -1,0 +1,9 @@
+{
+	"id": "hunchly",
+	"name": "Hunchly",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin converts Hunchly's notes and captioned images into obsidian notes. Also adds selectors from hunchly as obsidian tags.",
+	"author": "sapperlabs",
+	"isDesktopOnly": true
+}
